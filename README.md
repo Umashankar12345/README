@@ -3,8 +3,8 @@
 🚀 Full Stack Developer from Patna, Bihar, India  
 💻 Skills: HTML | CSS | JavaScript | React | Node.js | Laravel  
 🌱 Currently learning: Android Development & Laravel  
-📫 LinkedIn: [Connect with me](https://www.linkedin.com/in/umashankar-kumar-134a88269)  
-⚡ LeetCode: [My Profile](https://leetcode.com/u/Umashankar9572)
+📫 LinkedIn: [Connect with me](https://www.linkedin.com/in/umashankar-kumar-134a88269/)  
+⚡ LeetCode: [My Profile](https://leetcode.com/u/Umashankar9572/)
 
 ---
 
